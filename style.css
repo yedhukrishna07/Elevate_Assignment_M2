@@ -1,4 +1,6 @@
-
+.main-body{
+        font-weight: bold;
+}
 .nave-bar{
         list-style-type: none;
         margin: 0;
@@ -42,7 +44,7 @@ h1{
 .image-logo{
         height: 30px;
         width: 30px;
-        margin-left: 800px;
+        margin-left: 780px;
         margin-top: 15px;
 }
  p{
