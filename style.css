@@ -23,7 +23,7 @@ li a{
         text-decoration: none;
 }
 li a:hover{
-        background-color:#670e0e;
+        background-color:#9f2525;
 }
       
 h1{
@@ -60,15 +60,18 @@ h1{
 .card{
         text-decoration: none;
         width: 18rem;
-        background-color: #040404;
+        background-color:black;
         border-radius: 30px;
         padding: 10px;
         margin: 30px;
         display: inline-block;
         float: left;
         box-sizing:content-box;
-        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
         transition: 0.3s;
+}
+.card-img{
+        background-color: #0d0000;
 }
 .card-img {
         width: 250px;
@@ -82,7 +85,7 @@ h1{
       
 }
 .btn.btn-primary:hover{
-  background-color: #4d0202;
+  background-color: rgb(182, 9, 50);
 }
 
 .footer-di{
@@ -93,4 +96,3 @@ h1{
         text-align: center;
         background-color: #333;
 }
-    
